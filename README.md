@@ -88,8 +88,4 @@ Possible future enhancements include:
 - Cross-validation
 - Feature importance analysis using advanced models
 
----
-
-## Author
-
 Youssef Issa
